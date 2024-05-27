@@ -1,0 +1,12 @@
+.navbar{
+    background-color: brown;
+    justify-content: space-between;
+    padding: 15px;
+    display: flex;
+    border-radius: 15px;
+
+}
+
+.nota:hover{
+    color: beige;
+}
